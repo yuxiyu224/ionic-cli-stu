@@ -1,0 +1,41 @@
+{
+  "version": "0.1.0",
+  "project": "ionic-cli",
+  "outputDir": ".dg",
+  "updated": "2025-07-10T03:33:21.758Z",
+  "casts": [
+    {
+      "name": "showhelp",
+      "title": "showhelp",
+      "created": "2025-07-10T03:32:39.732Z",
+      "updated": "2025-07-10T03:32:39.732Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      },
+      "command": "ionic --help"
+    },
+    {
+      "name": "showhelp2",
+      "title": "showhelp2",
+      "created": "2025-07-10T03:33:02.759Z",
+      "updated": "2025-07-10T03:33:02.759Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      },
+      "command": "ionic cordova --help"
+    },
+    {
+      "name": "showstart",
+      "title": "showstart",
+      "created": "2025-07-10T03:33:21.757Z",
+      "updated": "2025-07-10T03:33:21.757Z",
+      "interactive": false,
+      "validation": {
+        "mode": "auto"
+      },
+      "command": "ionic start --help"
+    }
+  ]
+}
