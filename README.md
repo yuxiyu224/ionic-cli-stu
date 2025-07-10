@@ -19,7 +19,7 @@ Detailed installation instructions can be found in the [CLI documentation](https
 The Ionic CLI ships with command documentation, accessible in your terminal by using the `--help` flag. These docs are also available [online][ionic-cli-docs].
 
 * For a list of commands:
-
+![iconichelp](.dg/svg/showhelp2-dark.svg)
 ```
 ionic --help
 ionic cordova --help
@@ -27,7 +27,7 @@ ionic capacitor --help
 ```
 
 * For command usage and a list of options:
-
+![iconicstart](.dg/svg/showstart-dark.svg)
 ```
 ionic start --help
 ionic serve --help
